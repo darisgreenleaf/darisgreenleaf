@@ -28,7 +28,7 @@
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ### 🌟 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darisgreenleaf&show_icons=true&theme=rose)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darisgreenleaf&show_icons=true&theme=pink_rose)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=cute-theme)
 
 ### 🧁 My Sweet Projects
