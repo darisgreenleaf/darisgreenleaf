@@ -1,16 +1,15 @@
 
 ## 🌸 Hi everyone! My name is Daris 🌸
 
-![Cute Welcome Banner]([https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy])
-
+![Cute Welcome Banner](https://giphy.com/embed/LHZyixOnHwDDy)
 ---
 
-### 🍬 About Me
-- :[Account Payable Specialist].
-- 🌷 **Learning**: [What you're learning].
-- 🏡 **Location**: [Your Location].
-- 🎨 **Hobbies**: [List of hobbies, e.g., Painting, Baking, etc.].
-- 🐾 **Fun Fact**: [A quirky or interesting fact about you].
+### 🌸 About Me
+- . ݁₊ ⊹ . ݁˖ . ݁[Account Payable Specialist].
+- . ݁₊ ⊹ . ݁˖ . ݁**Learning**: [What you're learning].
+- . ݁₊ ⊹ . ݁˖ . ݁**Location**: [Your Location].
+- . ݁₊ ⊹ . ݁˖ . ݁**Hobbies**: [List of hobbies, e.g., Painting, Baking, etc.].
+- . ݁₊ ⊹ . ݁˖ . ݁**Fun Fact**: [A quirky or interesting fact about you].
 
 ### ✨ Tech & Tools I Love
 - **Languages**:  
@@ -29,8 +28,7 @@
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ### 🌟 My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=cute-theme)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darisgreenleaf&show_icons=true&theme=rose)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=cute-theme)
 
 ### 🧁 My Sweet Projects
@@ -44,7 +42,7 @@
 
 ---
 
-*Crafted with 💖 by [Your Name]*
+*Crafted with 💖 by Daris*
 
 ---
 
