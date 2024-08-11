@@ -1,7 +1,7 @@
 
-## 🌸 Hello, World! I'm DARIS G 🌸
+## 🌸 Hi everyone! My name is Daris 🌸
 
-![Cute Welcome Banner](https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)
+![Cute Welcome Banner]([https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif](https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy))
 
 ---
 
