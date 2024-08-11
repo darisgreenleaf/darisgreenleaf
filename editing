@@ -5,5 +5,6 @@ pink_rose: {
     icon_color: "B71F36",
     border_color: "e9d8d4",
     bg_color: "e9d8d4",
-  }
-}
+  },
+};
+export default themes;
