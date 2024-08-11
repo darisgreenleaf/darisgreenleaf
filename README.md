@@ -56,4 +56,4 @@
 
 ---
 
-This version adds more color and personality to your GitHub profile, making it stand out as both cute and professional. Feel free to tweak it further to reflect your personal style!
+
