@@ -3,7 +3,7 @@
 
 
 
-![Cute Welcome Banner](https://github.com/darisgreenleaf/darisgreenleaf/blob/main/daris1.JPG)
+![Cute Welcome Banner](https://github.com/darisgreenleaf/darisgreenleaf/blob/main/daris2JPG.JPG))
 ---
 ### 🌸 About Me
 - . ݁₊ ⊹ . ݁˖ . ݁**My Job**: Account Payable Specialist
