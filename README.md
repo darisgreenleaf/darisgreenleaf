@@ -1,14 +1,16 @@
 
 ## 🌸 Hi everyone! My name is Daris 🌸
 
-![Cute Welcome Banner](https://giphy.com/embed/LHZyixOnHwDDy)
+![Cute Welcome Banner](https://raw.githubusercontent.com/darisgreenleaf/darisgreenleaf/main/200.webp)
 ---
+
+
 
 ### 🌸 About Me
 - . ݁₊ ⊹ . ݁˖ . ݁**My Job**: Account Payable Specialist
-- . ݁₊ ⊹ . ݁˖ . ݁**Learning**: [What you're learning].
-- . ݁₊ ⊹ . ݁˖ . ݁**Location**: [Your Location].
-- . ݁₊ ⊹ . ݁˖ . ݁**Hobbies**: Upholstery, Gardening, Bike rides, Hiking, Traveling, Photography
+- . ݁₊ ⊹ . ݁˖ . ݁**Learning**: [PYTHON,SQL
+- . ݁₊ ⊹ . ݁˖ . ݁**Location**: [UTAH].
+- . ݁₊ ⊹ . ݁˖ . ݁**Hobbies**: Upholstery, Gardening, Bike rides, Hiking, Traveling, Photography, Just learning.
 - . ݁₊ ⊹ . ݁˖ . ݁**Fun Fact**: [A quirky or interesting fact about you].
 
 ### ✨ Tech & Tools I Love
