@@ -1,9 +1,9 @@
 
 ## 🌸 Hi everyone! My name is Daris 🌸
 
-![Cute Welcome Banner](https://raw.githubusercontent.com/darisgreenleaf/darisgreenleaf/main/200.webp)
----
-![Cute Welcome Banner](https://github.com/darisgreenleaf/darisgreenleaf/commit/8123c01ba7b8a3d1dac8c70097cd2ec2d67e8e90)
+
+
+![Cute Welcome Banner](https://github.com/darisgreenleaf/darisgreenleaf/blob/main/daris1.JPG)
 ---
 ### 🌸 About Me
 - . ݁₊ ⊹ . ݁˖ . ݁**My Job**: Account Payable Specialist
