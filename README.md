@@ -38,9 +38,8 @@
 - [🍰 Project 2 Name](Project URL) - A brief description of what it does.
 
 ### 💌 Let's Connect!
-- . ݁₊ ⊹ . ݁˖ . ݁[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername) . ݁₊ ⊹ . ݁˖ . ݁
 - . ݁₊ ⊹ . ݁˖ . ݁[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) . ݁₊ ⊹ . ݁˖ . ݁
-- . ݁₊ ⊹ . ݁˖ . ݁[![Portfolio](https://img.shields.io/badge/-Portfolio-FF69B4?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com) . ݁₊ ⊹ . ݁˖ . ݁
+
 ---
 
 *Crafted with 💖 by Daris*
