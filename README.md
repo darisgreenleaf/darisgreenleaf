@@ -5,10 +5,10 @@
 ---
 
 ### 🌸 About Me
-- . ݁₊ ⊹ . ݁˖ . ݁[Account Payable Specialist].
+- . ݁₊ ⊹ . ݁˖ . ݁**My Job**: Account Payable Specialist
 - . ݁₊ ⊹ . ݁˖ . ݁**Learning**: [What you're learning].
 - . ݁₊ ⊹ . ݁˖ . ݁**Location**: [Your Location].
-- . ݁₊ ⊹ . ݁˖ . ݁**Hobbies**: [List of hobbies, e.g., Painting, Baking, etc.].
+- . ݁₊ ⊹ . ݁˖ . ݁**Hobbies**: Upholstery, Gardening, Bike rides, Hiking, Traveling, Photography
 - . ݁₊ ⊹ . ݁˖ . ݁**Fun Fact**: [A quirky or interesting fact about you].
 
 ### ✨ Tech & Tools I Love
@@ -28,8 +28,8 @@
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ### 🌟 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darisgreenleaf&show_icons=true&theme=pink_rose)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=cute-theme)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darisgreenleaf&show_icons=true&theme=ambient_gradient)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=ambient_gradient)
 
 ### 🌸 My Projects
 - [🍓 Project 1 Name](Project URL) - A brief description of what it does.
