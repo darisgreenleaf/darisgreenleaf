@@ -16,13 +16,12 @@
 
 ### 🌟 My GitHub Stats
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=_darisgreenleaf&&show_icons=true&bg_color=FDF4F0&title_color=FF69B4&text_color=FFB6C1&icon_color=FFC0CB)
 
 
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darisgreenleaf&show_icons=true&theme=ambient_gradient)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=ambient_gradient)
 
 ### 🌸 My Projects
 - [🍓 Project 1 Name](Project URL) - A brief description of what it does.
