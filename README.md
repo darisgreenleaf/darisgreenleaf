@@ -16,7 +16,7 @@
 
 ### 🌟 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=_darisgreenleaf&&show_icons=true&bg_color=FDF4F0&title_color=FF69B4&text_color=FFB6C1&icon_color=FFC0CB)
+
 
 
 
