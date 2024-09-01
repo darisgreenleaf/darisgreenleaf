@@ -9,7 +9,8 @@
 - . ݁₊ ⊹ . ݁˖ . ݁**Learning**: PYTHON,SQL
 - . ݁₊ ⊹ . ݁˖ . ݁**Location**: UTAH
 - . ݁₊ ⊹ . ݁˖ . ݁**Hobbies**: Upholstery, Gardening, Bike rides, Hiking, Traveling, Photography, Just learning.
-- . ݁₊ ⊹ . ݁˖ . ݁**Fun Fact**: [A quirky or interesting fact about you].
+- . ݁₊ ⊹ . ݁˖ . ݁**Fun Fact**: I can't hear [**"Paint It, Black"**](https://www.youtube.com/watch?v=O4irXQhgMqg) song without smiling.
+
 
 ### ✨ Tech & Tools I Love
 - **Languages**:  
