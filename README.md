@@ -13,7 +13,7 @@
 
 
 ### ✨ Tech & Tools I Love
-- **Languages**:  
+- **Languages**:  Excel, SQL, Tableau and more to come....
 
 ### 🌟 My GitHub Stats
 
