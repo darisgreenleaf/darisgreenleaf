@@ -5,15 +5,15 @@
 
 
 ### 🌸 About Me
-- . ݁₊ ⊹ . ݁˖ . ݁**My Job**: Account Payable Specialist
-- . ݁₊ ⊹ . ݁˖ . ݁**Learning**: PYTHON,SQL
-- . ݁₊ ⊹ . ݁˖ . ݁**Location**: UTAH
-- . ݁₊ ⊹ . ݁˖ . ݁**Hobbies**: Upholstery, Gardening, Bike rides, Hiking, Traveling, Photography, Just learning.
-- . ݁₊ ⊹ . ݁˖ . ݁**Fun Fact**: I can't hear [**"Paint It, Black"**](https://www.youtube.com/watch?v=O4irXQhgMqg) song without smiling.
+-  ݁**My Job**: Account Payable Specialist
+-  ݁**Learning**: PYTHON,SQL
+-  ݁**Location**: UTAH
+-  ݁**Hobbies**: Upholstery, Gardening, Bike rides, Hiking, Traveling, Photography, Just learning.
+-  ݁**Fun Fact**: I can't hear [**"Paint It, Black"**](https://www.youtube.com/watch?v=O4irXQhgMqg) song without smiling.
 
 
 ### ✨ Tech & Tools I Love
-- **Languages**:  Excel, SQL, Tableau and more to come....
+- **Languages**:  Excel, SQL, Tableau, and more to come....
 
 ### 🌟 My GitHub Stats
 
