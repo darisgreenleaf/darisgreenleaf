@@ -6,7 +6,7 @@
 
 ### 🌸 About Me
 -  ݁**My Job**: Account Payable Specialist
--  ݁**Learning**: PYTHON,SQL
+-  ݁**Learning**: SQL, Tableau, Looker
 -  ݁**Location**: UTAH
 -  ݁**Hobbies**: Upholstery, Gardening, Bike rides, Hiking, Traveling, Photography, Just learning.
 -  ݁**Fun Fact**: I can't hear [**"Paint It, Black"**](https://www.youtube.com/watch?v=O4irXQhgMqg) song without smiling.
